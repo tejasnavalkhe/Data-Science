@@ -2,7 +2,7 @@
 
 In this repo, I will perform tasks to solve some real world problems (questions) related to data science like cleaning data, analyzing data and visualizing it.
 
-## ------Sales_Analysis------
+## A] Sales_Analysis
 
 To do Sales Analysis firstly we will have to clean our data and also perform some tasks.
 
