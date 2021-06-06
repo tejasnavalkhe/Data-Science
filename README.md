@@ -1,6 +1,7 @@
 # **\*\*\*\***\*\*\*\***\*\*\*\***Data-Science**\*\*\*\***\*\*\*\***\*\*\*\***
 
-In this repo, I will perform tasks to solve some real world problems (questions) related to data science like cleaning data, analyzing data and visualizing it.
+In this repository, I will perform tasks to solve some real world problems (questions) related to data science like cleaning data, analyzing data and visualizing it.
+You will also get `README.md` file in all the Data sets containing some information about that data.
 
 ## A] Sales_Analysis
 
