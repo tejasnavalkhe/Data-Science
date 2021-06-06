@@ -3,7 +3,7 @@
 In this repository, I will perform tasks to solve some real world problems (questions) related to DataScience like Cleaning Data, Analyzing Data and Visualizing it.
 You will also get `README.md` file in all the Data sets containing some information about that data.
 
-## A] [Sales_Analysis](https://www.google.com)
+## A] [Sales_Analysis](https://github.com/tejasnavalkhe1810/Data-Science/tree/master/Sales_Analysis)
 
 To do Sales Analysis firstly we will have to clean our data and also perform some tasks.
 
