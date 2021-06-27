@@ -39,8 +39,6 @@ Q.6 Which products sold the most month-wise?
 
 ## [B\] Apple_Stock](https://github.com/tejasnavalkhe1810/Data-Science/tree/master/Apple_Stock)
 
- # ------Apple_Stock------
-
 The Apple_Stock data has been already cleaned in `appl_1980_2014.csv` file in '`Apple_Stock`' folder.
 
 ### Tasks:
