@@ -1,7 +1,5 @@
 # ------Sales_Analysis------
 
-#### NOTE: Please try to solve it by your own then check the Answers. Only download the 'Sales_Data' folder and delete the 'all_data.csv' file, then start solving following questions.
-
 To do Sales Analysis firstly we will have to clean our data and also perform some tasks.
 
 ### Tasks:
@@ -29,3 +27,5 @@ Q.3 What time should we display advertisements to maximize likelihood of custome
 Q.4 What products are most often sold together?
 
 Q.5 What product sold the most? Why do you think it sold the most?
+
+Q.6 Which products sold the most month-wise?

@@ -33,4 +33,31 @@ Q.4 What products are most often sold together?
 
 Q.5 What product sold the most? Why do you think it sold the most?
 
-#### NOTE: Please wait I will upload more DataSets and will solve more real world problems on that Datasets.
+Q.6 Which products sold the most month-wise?
+
+###### *****************************************************************************************************
+
+## [B\] Apple_Stock](https://github.com/tejasnavalkhe1810/Data-Science/tree/master/Apple_Stock)
+
+ # ------Apple_Stock------
+
+The Apple_Stock data has been already cleaned in `appl_1980_2014.csv` file in '`Apple_Stock`' folder.
+
+### Tasks:
+
+1. Convert 'Date' columns into Datetime data type using 'pd.to_datetime(apple['Date])' method
+
+2. Adding columns (month, day)
+
+### Questions:
+
+Q.1 Get the last business day of each month
+
+Q.2 What is the difference in days between the first day and the oldest?
+
+Q.3 How many months in the data we have??
+
+Q.4 Plot the 'Adj Close' value. Set the size of the figure to 13.5 x 9 inches.
+
+
+#### NOTE: I will upload more DataSets and will solve more real world problems on that Datasets.
